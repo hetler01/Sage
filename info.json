@@ -1,0 +1,21 @@
+{
+    "OWNER_IDS": [
+        611491346628214788,
+        1216732903254396951
+    ],
+    "TOKEN": "",
+    "BotName": "Sage",
+    "serverLink": "https://discord.gg/alwaysontop",
+    "wh_cl": "https://discord.com/api/webhooks/1258681907596759080/21keWfoc95MsJSjwxzW_xoV7yLwA1QfLZpSTp2gOr6LW9qG9HOKZGgf7I7gtqI46yfS7",
+    "wh_bl": "https://discord.com/api/webhooks/1258682015180656732/9N2fpBWWhG8XqwTqv_fmZ9ofRgL6QFGsRMVpUkHiFCLqpFWCx04nuOwHWKaw5xAXcm-N",
+    "statusText": ".help",
+    "EXTENSIONS": [
+        "cogs.events"
+    ],
+    "np": [
+        611491346628214788,
+        1216732903254396951,
+        753919912468152320,
+        797724282301841489
+    ]
+}
